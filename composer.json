@@ -1,5 +1,5 @@
 {
-    "name": "akrug-va529/laravel",
+    "name": "akrug-va529/contentful-laravel",
     "description": "Integrates the Contentful PHP SDK with Laravel.",
     "type": "library",
     "license": "MIT",
